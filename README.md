@@ -1,4 +1,4 @@
-## Hello Word! Eu sou o Luiz Fernando Riva Nekel, programador back-end principalmente PHP. <a href="https://github.com/luizrn/sobre-min">Veja mais aqui</a> -> https://github.com/luizrn/sobre-min
+## Hello Word! Eu sou o Luiz Fernando Riva Nekel, programador back-end principalmente PHP. Veja mais aqui -> https://github.com/luizrn/sobre-min
 <div align="center">
   <a href="https://github.com/luizrn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizrn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
