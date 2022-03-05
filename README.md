@@ -1,7 +1,7 @@
 ## Hello Word! Eu sou o Luiz Fernando Riva Nekel, programador back-end principalmente PHP. <a href="https://github.com/luizrn/sobre-min">Veja mais aqui</a>
 <div align="center">
   <a href="https://github.com/luizrn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizrn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizrn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrn&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 https://github.com/luizrn/sobre-min
